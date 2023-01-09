@@ -2,3 +2,4 @@
 # Requirements
 
 - Tensorflow
+- Python
