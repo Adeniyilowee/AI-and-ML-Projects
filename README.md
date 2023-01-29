@@ -1,4 +1,4 @@
-# AL-and-ML-Projects
+# AI-and-ML-Projects
 # Requirements
 
 - Tensorflow
